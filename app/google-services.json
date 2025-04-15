@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462881853426",
+    "project_id": "toko-pancing-aman",
+    "storage_bucket": "toko-pancing-aman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462881853426:android:c14c1ff5f0fcd1f989656b",
+        "android_client_info": {
+          "package_name": "com.company.tokopancingaman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1WJHJXMhc_sX2CnzYqMj-RIc3MDZmkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
