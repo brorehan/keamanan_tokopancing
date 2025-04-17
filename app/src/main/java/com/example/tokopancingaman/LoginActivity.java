@@ -26,13 +26,6 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.forgotPasswordTextView).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // Handle forgot password logic here
-            }
-        });
-
         findViewById(R.id.registerTextView).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
